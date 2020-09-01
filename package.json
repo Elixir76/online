@@ -1,7 +1,7 @@
 {
-  "name": "Spam",
+  "name": "online",
   "version": "2.1.0",
-  "description": "Farm Credit ProBot",
+  "description": "stay online",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
